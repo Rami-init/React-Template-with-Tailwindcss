@@ -24,6 +24,6 @@
 ### frontend
 
 - `npm  start`
-   - Run the app in the development mode.
+   - Run The app in the development mode.
 - `npm run build`
-   - Build the app for production to the build folder.
+   - Build The app for production to the build folder.
