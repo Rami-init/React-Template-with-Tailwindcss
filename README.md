@@ -17,7 +17,7 @@
 | tool                    |  Description                                             |
 | ----------------------- |  ------------------------------------------------------- |
 | `react`                 |  Frontend framework                                      |
-| `tailwindcss`           |  utility-first CSS framework                           |
+| `tailwindcss`           |  utility-first CSS framework                             |
 
 ## `Useage`
 
@@ -26,4 +26,8 @@
 - `npm  start`
    - Run The app in the development mode.
 - `npm run build`
-   - Build The app for production to the build folder.
+
+   - Builds the app for production to the build folder.
+
+ `thanks for watch my works`
+
