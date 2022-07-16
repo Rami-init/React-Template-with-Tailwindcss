@@ -17,13 +17,13 @@
 | tool                    |  Description                                             |
 | ----------------------- |  ------------------------------------------------------- |
 | `react`                 |  Frontend framework                                      |
-| `tailwindcss`           |  A utility-first CSS framework                           |
+| `tailwindcss`           |  utility-first CSS framework                           |
 
 ## `Useage`
 
 ### frontend
 
 - `npm  start`
-   - Runs the app in the development mode.
+   - Run the app in the development mode.
 - `npm run build`
    - Build the app for production to the build folder.
