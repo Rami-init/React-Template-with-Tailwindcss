@@ -29,5 +29,4 @@
 
    - Builds the app for production to the build folder.
 
- `thanks for watch my works`
-
+ `thanks for watch my work`
