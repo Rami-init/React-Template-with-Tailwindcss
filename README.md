@@ -9,7 +9,7 @@
 ## `Introduction`
 
  
- this app built by flowing and learned from The best tutorial about Tailwind ever [Traversy Media](https://www.youtube.com/watch?v=dFgzHOX84xQ&t=3257s), so Thank you for the continuous content Brad!.\
+ this app built by flowing and learned from The best tutorial about Tailwindcss ever [Traversy Media](https://www.youtube.com/watch?v=dFgzHOX84xQ&t=3257s), so Thank you for the continuous content Brad!.\
  responsive for mobile app.
 
 ## `Frontend`
@@ -17,7 +17,7 @@
 | tool                    |  Description                                             |
 | ----------------------- |  ------------------------------------------------------- |
 | `react`                 |  Frontend framework                                      |
-| `tailwindcss`           |  A utility-first CSS framework                           |
+| `tailwindcss`           |  utility-first CSS framework                           |
 
 ## `Useage`
 
