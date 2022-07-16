@@ -17,7 +17,7 @@
 | tool                    |  Description                                             |
 | ----------------------- |  ------------------------------------------------------- |
 | `react`                 |  Frontend framework                                      |
-| `tailwindcss`           |  A utility-first CSS framework                           |
+| `tailwindcss`           |  utility-first CSS framework                           |
 
 ## `Useage`
 
